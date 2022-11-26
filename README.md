@@ -1,6 +1,6 @@
 # Google Spreadsheets Python API v4
-![latest workflow](https://github.com/burnash/gspread/actions/workflows/main.yaml/badge.svg?branch=master)
- [![GitHub version](https://badge.fury.io/gh/burnash%2Fgspread.svg)](https://badge.fury.io/gh/burnash%2Fgspread) ![pypi]( https://badge.fury.io/py/gspread.svg) ![downloads](https://img.shields.io/pypi/dm/gspread.svg) ![doc](https://readthedocs.org/projects/gspread/badge/?version=latest)
+![latest workflow](https://github.com/russellvt/gspread/actions/workflows/main.yaml/badge.svg?branch=russellvt)
+ [![GitHub version](https://badge.fury.io/gh/russellvt%2Fgspread.svg)](https://badge.fury.io/gh/russellvt%2Fgspread) ![pypi]( https://badge.fury.io/py/gspread.svg) ![downloads](https://img.shields.io/pypi/dm/gspread.svg) ![doc](https://readthedocs.org/projects/gspread/badge/?version=latest)
 
 
 Simple interface for working with Google Sheets.
@@ -176,11 +176,11 @@ worksheet.batch_update([{
 
 ## [Documentation](https://gspread.readthedocs.io/en/latest/)
 
-## [Contributors](https://github.com/burnash/gspread/graphs/contributors)
+## [Contributors](https://github.com/russellvt/gspread/graphs/contributors)
 
 ## How to Contribute
 
-Please make sure to take a moment and read the [Code of Conduct](https://github.com/burnash/gspread/blob/master/.github/CODE_OF_CONDUCT.md).
+Please make sure to take a moment and read the [Code of Conduct](https://github.com/russellvt/gspread/blob/russellvt/.github/CODE_OF_CONDUCT.md).
 
 ### Ask Questions
 
@@ -188,14 +188,14 @@ The best way to get an answer to a question is to ask on [Stack Overflow with a 
 
 ### Report Issues
 
-Please report bugs and suggest features via the [GitHub Issues](https://github.com/burnash/gspread/issues).
+Please report bugs and suggest features via the [GitHub Issues](https://github.com/russellvt/gspread/issues).
 
 Before opening an issue, search the tracker for possible duplicates. If you find a duplicate, please add a comment saying that you encountered the problem as well.
 
 ### Improve Documentation
 
-[Documentation](https://gspread.readthedocs.io/) is as important as code. If you know how to make it more consistent, readable and clear, please submit a pull request. The documentation files are in [`docs`](https://github.com/burnash/gspread/tree/master/docs) folder, use [reStructuredText](http://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html#rst-index) markup and rendered by [Sphinx](http://www.sphinx-doc.org/).
+[Documentation](https://gspread.readthedocs.io/) is as important as code. If you know how to make it more consistent, readable and clear, please submit a pull request. The documentation files are in [`docs`](https://github.com/russellvt/gspread/tree/russellvt/docs) folder, use [reStructuredText](http://www.sphinx-doc.org/en/russellvt/usage/restructuredtext/index.html#rst-index) markup and rendered by [Sphinx](http://www.sphinx-doc.org/).
 
 ### Contribute code
 
-Please make sure to read the [Contributing Guide](https://github.com/burnash/gspread/blob/master/.github/CONTRIBUTING.md) before making a pull request.
+Please make sure to read the [Contributing Guide](https://github.com/russellvt/gspread/blob/russellvt/.github/CONTRIBUTING.md) before making a pull request.

@@ -40,16 +40,16 @@ version = re.search(
 
 
 setup(
-    name="gspread",
-    packages=["gspread"],
+    name="gspread-russellvt",
+    packages=["gspread-russellvt"],
     description=description,
     long_description=long_description,
     version=version,
     author="Anton Burnashev",
     author_email="fuss.here@gmail.com",
-    maintainer="Alexandre Lavigne",
-    maintainer_email="lavigne958@gmail.com",
-    url="https://github.com/burnash/gspread",
+    maintainer="Russell M. Van Tassell",
+    maintainer_email="russell@geekoncall.net",
+    url="https://github.com/russellvt/gspread",
     keywords=["spreadsheets", "google-spreadsheets"],
     install_requires=["google-auth>=1.12.0", "google-auth-oauthlib>=0.4.1"],
     python_requires=">=3.6, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*",
